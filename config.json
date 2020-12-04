@@ -1,0 +1,4 @@
+{ 
+    "token"  : "secret_bot_token_from_discord_developers_portal",
+    "prefix" : "bot prefix"
+}
