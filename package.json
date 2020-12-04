@@ -17,7 +17,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/hello-sqlite"
+    "url": "https://github.com/brianseminara/discord-bot-template"
   },
   "license": "MIT",
   "keywords": [
