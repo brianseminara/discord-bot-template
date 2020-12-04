@@ -1,4 +1,4 @@
 { 
-    "token"  : "secret_bot_token_from_discord_developers_portal",
-    "prefix" : "bot prefix"
+    "token"  : "", //Bot Token from discord developer portal. (Don't share with anyone)
+    "prefix" : "" //Choose a prefix for your bot like ! or ?
 }
